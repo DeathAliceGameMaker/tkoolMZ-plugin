@@ -2,7 +2,6 @@
 // DA_TPBSpeedChangeVariable.js
 //=============================================================================
 /*
- *:
  * @target MZ
  * @file DA_TPBSpeedChangeVariable
  * @plugindesc It is a plug-in that manages the time when the gauge accumulates in TPB with a variable.
